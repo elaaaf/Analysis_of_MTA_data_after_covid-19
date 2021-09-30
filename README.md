@@ -1,5 +1,5 @@
-## Project proposal:
-![alt text](https://github.com/elafsalem/SDS/blob/main/Proposal/img1.png)
+# The Impact of covid-19 on nyc subway entries
+
 =======
 <br><br>
 ## Presentation

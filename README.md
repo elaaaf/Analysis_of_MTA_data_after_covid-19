@@ -1,6 +1,5 @@
 # The Impact of covid-19 on nyc subway entries
 
-=======
 <br><br>
 ## Presentation
 [Presentaiton link is here.](https://github.com/elafsalem/SDS/blob/main/Presentation/Project.pdf)
